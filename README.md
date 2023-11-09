@@ -59,10 +59,10 @@ python3 sltcli.py login
 - You can use `usage`, `account` and `bill` to get the usage information, account details and payment details respectively. (This will show a filtered output of the most important data)
 
 ```bash
-python3 sltsli.py {usage,account,bill}
+python3 sltcli.py {usage,account,bill}
 ```
 - You can use `-a` flag with these actions to get the full repsonse instead of the filtered output.
 
 ```bash
-python3 sltsli.py {usage,account,bill} -a
+python3 sltcli.py {usage,account,bill} -a
 ```
