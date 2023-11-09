@@ -1,0 +1,14 @@
+{
+    "authentication": {
+        "username": "username",
+        "password": "password"
+    },
+    "account": {},
+    "server": {
+        "loginUrl": "https://omniscapp.slt.lk/mobitelint/slt/api/Account/Login",
+        "AccountDetailsUrl": "https://omniscapp.slt.lk/mobitelint/slt/api/AccountOMNI/GetAccountDetailRequest",
+        "UsageDetailsUrl": "https://omniscapp.slt.lk/mobitelint/slt/api/BBVAS/UsageSummary",
+        "ProfileDetailsUrl": "https://omniscapp.slt.lk/mobitelint/slt/api/VAS/GetProfileRequest",
+        "BillPaymentUrl": "https://omniscapp.slt.lk/mobitelint/slt/api/AccountOMNI/BillPaymentRequest"
+    }
+}
