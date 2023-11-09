@@ -8,7 +8,7 @@ Command Line Tool to fetch usage, bill and account information for SLT users
 1. Clone this repository
 
 ```bash
-git clone https://github.com/kavishkagihan/sltcli/sltcli.git
+git clone https://github.com/kavishkagihan/sltcli.git
 ```
 2. Run the script for the first time.
 ```bash
